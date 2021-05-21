@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @truongnv500
+- 👀 I’m interested in Javascript
+- 🌱 I’m currently learning JS and React, Redux
+- 💞️ I’m looking to collaborate on small projects with frontend components
+- 📫 My instagram : Truongnv500
+- My email: Truongnv500@gmail.com
